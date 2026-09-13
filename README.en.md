@@ -16,6 +16,18 @@
   <a href="README.md">Русская версия</a>
 </p>
 
+## Leading models without multiple subscriptions
+
+**KD Code is free to download.** Fund one KeyDealer balance in Russian rubles and choose the right model for each task: Claude, GPT, Gemini, GLM, or another available model.
+
+| **Free application** | **One balance** | **Pay for usage** | **Visible cost** |
+|---|---|---|---|
+| KD Code is distributed free in the beta channel. | You do not need to fund separate accounts with multiple model providers. | Model requests use the current KeyDealer rate for the selected model. | Each session shows its actual charge, and the receipt reports cost and context savings. |
+
+<p align="center">
+  <a href="https://keydealer.ru/models"><strong>View available models and current pricing →</strong></a>
+</p>
+
 ## An AI programming workspace built around your project
 
 KD Code is a desktop AI agent for coding and building digital products. Open an existing repository or an empty folder, state the outcome you need, and follow the work in one conversation.
