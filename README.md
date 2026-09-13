@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://keydealer.ru/kd-code">
+  <a href="https://keydealer.ru/kd-code?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=cover">
     <img src="assets/kd-code-cover.png" width="100%" alt="KD Code — нейросеть для программирования и ИИ-агент для работы с кодом">
   </a>
 </p>
@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://keydealer.ru/kd-code#download"><img alt="Скачать KD Code" src="https://img.shields.io/badge/Скачать_KD_Code-0A69FF?style=for-the-badge"></a>
-  <a href="https://keydealer.ru/login?mode=register&next=%2Fapp%2Fquickstart"><img alt="Попробовать бесплатно" src="https://img.shields.io/badge/Попробовать_бесплатно-16845B?style=for-the-badge"></a>
-  <a href="https://keydealer.ru/docs"><img alt="Документация" src="https://img.shields.io/badge/Документация-202631?style=for-the-badge"></a>
+  <a href="https://keydealer.ru/kd-code?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=hero_download#download"><img alt="Скачать KD Code" src="https://img.shields.io/badge/Скачать_KD_Code-0A69FF?style=for-the-badge"></a>
+  <a href="https://keydealer.ru/login?mode=register&next=%2Fapp%2Fquickstart&utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=hero_signup"><img alt="Попробовать бесплатно" src="https://img.shields.io/badge/Попробовать_бесплатно-16845B?style=for-the-badge"></a>
+  <a href="https://keydealer.ru/docs?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=hero_docs"><img alt="Документация" src="https://img.shields.io/badge/Документация-202631?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -21,16 +21,16 @@
   <a href="README.en.md">English version</a>
 </p>
 
-## Сильные модели без нескольких подписок
+## Выгодный LLM API внутри coding agent
 
-**KD Code можно скачать бесплатно.** Пополняете один баланс KeyDealer в рублях и выбираете подходящую модель для каждой задачи: Claude, GPT, Gemini, GLM или другую доступную модель.
+**KD Code можно скачать бесплатно.** Один ключ KeyDealer открывает доступ к LLM API Claude, GPT, Gemini, GLM и других моделей по выгодным тарифам с оплатой в рублях. Для каждой задачи можно выбрать модель по качеству, скорости и цене.
 
 | **0 ₽ за приложение** | **Один баланс** | **Оплата по использованию** | **Цена работы перед глазами** |
 |---|---|---|---|
-| KD Code распространяется бесплатно в beta-канале. | Не нужно отдельно пополнять счета у разных поставщиков моделей. | Платите за запросы по актуальному тарифу выбранной модели. | Фактическое списание видно рядом с сессией, а квитанция показывает стоимость и экономию контекста. |
+| KD Code распространяется бесплатно в beta-канале. | Не нужно отдельно пополнять счета у разных поставщиков LLM API. | Платите за запросы по актуальному тарифу выбранной модели. | Фактическое списание видно рядом с сессией, а квитанция показывает стоимость и экономию контекста. |
 
 <p align="center">
-  <a href="https://keydealer.ru/models"><strong>Посмотреть доступные модели и актуальные цены →</strong></a>
+  <a href="https://keydealer.ru/models?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=pricing_models"><strong>Посмотреть доступные модели и актуальные цены →</strong></a>
 </p>
 
 ## Ваш проект становится рабочим местом ИИ-агента
@@ -46,7 +46,7 @@ KD Code — настольный ИИ-агент для программиров
 - **Принимает удалённые задачи.** Разрешённый проект можно запустить через Telegram, когда KD Code работает на вашем компьютере.
 
 <p align="center">
-  <a href="https://keydealer.ru/kd-code">
+  <a href="https://keydealer.ru/kd-code?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=interface">
     <img src="assets/kd-code-interface.jpg" width="100%" alt="Интерфейс KD Code: ИИ-агент изучает проект и готовит план работы с кодом">
   </a>
 </p>
@@ -60,7 +60,7 @@ KD Code — настольный ИИ-агент для программиров
 Подходит для сайтов, Telegram-ботов, личных кабинетов, автоматизации, внутренних инструментов и первых версий онлайн-сервисов.
 
 <p align="center">
-  <a href="https://keydealer.ru/kd-code#download"><strong>Скачать KD Code и начать работу →</strong></a>
+  <a href="https://keydealer.ru/kd-code?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=workflow_download#download"><strong>Скачать KD Code и начать работу →</strong></a>
 </p>
 
 ## KD Research быстрее входит в незнакомый проект
@@ -73,7 +73,7 @@ KD Code — настольный ИИ-агент для программиров
 |---:|---:|---:|
 | **−15,33%** | **12 → 9** | **4/4 в обеих группах** |
 
-Сравнивались одинаковые проект, запрос, модель и оценщик. Это результат этапа исследования на конкретной серии, поэтому фактический эффект зависит от проекта, задачи и выбранной модели. [Посмотреть описание и методику →](https://keydealer.ru/kd-code#kd-research)
+Сравнивались одинаковые проект, запрос, модель и оценщик. Это результат этапа исследования на конкретной серии, поэтому фактический эффект зависит от проекта, задачи и выбранной модели. [Посмотреть описание и методику →](https://keydealer.ru/kd-code?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=research_methodology#kd-research)
 
 ## Контекст расходуется на работу, а не на повторы
 
@@ -99,14 +99,14 @@ KD Engine внутри приложения управляет длинной и
 Подключите нужные сервисы и выдайте им права для конкретного проекта. Агент сможет обратиться к репозиторию, задачам, документации или инфраструктуре во время работы.
 
 <p align="center">
-  <a href="https://keydealer.ru/kd-code#apps">
+  <a href="https://keydealer.ru/kd-code?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=apps_catalog#apps">
     <img src="assets/kd-code-apps.png" width="100%" alt="Каталог приложений KD Code: GitHub, Linear, Notion, Supabase, Sentry и Cloudflare">
   </a>
 </p>
 
 ## Установка KD Code
 
-1. Откройте [страницу загрузки](https://keydealer.ru/kd-code#download).
+1. Откройте [страницу загрузки](https://keydealer.ru/kd-code?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=install_download#download).
 2. Выберите macOS, Windows или Linux.
 3. Выполните показанную команду установки.
 4. Подключите ключ KeyDealer и выберите модель.
@@ -115,7 +115,7 @@ KD Engine внутри приложения управляет длинной и
 Актуальные системные требования, подписи пакетов и инструкции всегда публикуются на официальной странице загрузки.
 
 <p align="center">
-  <a href="https://keydealer.ru/kd-code#download"><img alt="Установить KD Code" src="https://img.shields.io/badge/Установить_KD_Code-0A69FF?style=for-the-badge&logo=icloud&logoColor=white"></a>
+  <a href="https://keydealer.ru/kd-code?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=install_badge#download"><img alt="Установить KD Code" src="https://img.shields.io/badge/Установить_KD_Code-0A69FF?style=for-the-badge&logo=icloud&logoColor=white"></a>
 </p>
 
 ## Частые вопросы
@@ -164,13 +164,13 @@ KD Code работает с выбранной папкой на вашем ко
 
 ## Официальные ссылки
 
-- [KD Code: возможности, примеры и загрузка](https://keydealer.ru/kd-code)
-- [Документация KeyDealer и KD Code](https://keydealer.ru/docs)
-- [Каталог моделей](https://keydealer.ru/models)
-- [Личный кабинет](https://keydealer.ru/app)
-- [Поддержка](https://keydealer.ru/app/support)
-- [Условия использования](https://keydealer.ru/terms)
-- [Политика конфиденциальности](https://keydealer.ru/privacy)
+- [KD Code: возможности, примеры и загрузка](https://keydealer.ru/kd-code?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=official_product)
+- [Документация KeyDealer и KD Code](https://keydealer.ru/docs?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=official_docs)
+- [Каталог моделей](https://keydealer.ru/models?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=official_models)
+- [Личный кабинет](https://keydealer.ru/app?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=official_account)
+- [Поддержка](https://keydealer.ru/app/support?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=official_support)
+- [Условия использования](https://keydealer.ru/terms?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=official_terms)
+- [Политика конфиденциальности](https://keydealer.ru/privacy?utm_source=github&utm_medium=referral&utm_campaign=kd_code_public_repo&utm_content=official_privacy)
 
 ---
 

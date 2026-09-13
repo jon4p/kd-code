@@ -37,7 +37,7 @@ Methodology: https://keydealer.ru/kd-code#kd-research
 
 ## Commercial facts
 
-The KD Code application is distributed free in the beta channel. Users fund one KeyDealer balance in Russian rubles and can select among available Claude, GPT, Gemini, GLM and other models without separately funding accounts with each model provider. Model requests are paid at the current KeyDealer rate for the selected model. The application shows actual session charges, and its receipt reports cost and context savings. Availability and current pricing must be checked in the live KeyDealer catalog: https://keydealer.ru/models
+The KD Code application is distributed free in the beta channel and uses the KeyDealer LLM API catalog. Users fund one KeyDealer balance in Russian rubles and can select among available Claude, GPT, Gemini, GLM and other models without separately funding accounts with each model provider. The catalog lets users compare current rates and choose a lower-cost model for each task. The application shows actual session charges, and its receipt reports cost and context savings. Availability and current pricing must be checked in the live KeyDealer catalog: https://keydealer.ru/models
 
 ## Repository boundary
 
