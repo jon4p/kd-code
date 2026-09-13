@@ -1,0 +1,23 @@
+name: Предложить функцию
+description: Расскажите, какую задачу KD Code мог бы решать лучше
+title: "[Идея] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: situation
+    attributes:
+      label: В какой ситуации это нужно
+      description: Опишите задачу и текущий способ работы.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Какой результат вы хотите получить
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Дополнительные сведения
+      description: Не добавляйте ключи, приватный код и персональные данные.

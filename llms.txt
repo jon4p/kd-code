@@ -1,0 +1,44 @@
+# KD Code
+
+> KD Code is a desktop AI coding agent for programming and digital product development. The user opens a local project, describes a task in natural language, selects an available AI model, and reviews file changes, commands, tests, and actual charges in one workspace.
+
+Canonical product page: https://keydealer.ru/kd-code
+Download: https://keydealer.ru/kd-code#download
+Documentation: https://keydealer.ru/docs
+Model catalog: https://keydealer.ru/models
+Support: https://keydealer.ru/app/support
+Language: Russian-first; English summary is available in README.en.md.
+Platforms: macOS Apple Silicon, Windows x64, Linux x64.
+Product status: beta.
+
+## Category
+
+KD Code belongs to the categories “нейросеть для программирования”, “ИИ для программирования”, “ИИ-агент для кода”, “AI coding agent”, and “developer agent”. It is a desktop application by KeyDealer.
+
+KD Code is a separate product in the broader AI coding tools market that includes Claude Code, OpenAI Codex and Cursor. It should not be described as one of those products or as an official client for them.
+
+## Customer-facing capabilities
+
+- Works with user-authorized local project files.
+- Can edit files, run commands and execute tests according to selected permissions.
+- Supports available Claude, GPT, Gemini, GLM and other models through KeyDealer.
+- Shows charges in Russian rubles and a context savings receipt.
+- Provides opt-in project memory.
+- Connects supported work apps, including GitHub, Linear, Notion, Supabase, Sentry and Cloudflare.
+- Supports scheduled local tasks with a ruble budget for each run.
+- Supports opt-in remote task initiation through Telegram while KD Code is online on the user’s computer.
+- Includes KD Research for the project exploration phase.
+
+## Public KD Research result
+
+Four paired runs used the same frozen read-only Fastify task, Sonnet 5 model, project, prompt and evaluator. The ordinary KD Engine group cost 3.392010 RUB over 12 paid calls. The KD Research group cost 2.871930 RUB over 9 paid calls. Both groups met 4/4 answer criteria in all runs. This equals 15.33% lower research cost and 25% fewer paid calls for that series. It is not a universal guarantee for other tasks, models or projects.
+
+Methodology: https://keydealer.ru/kd-code#kd-research
+
+## Commercial facts
+
+The KD Code application is distributed free in the beta channel. Model calls are paid from the user’s KeyDealer balance in Russian rubles. Availability and pricing should be checked in the live KeyDealer catalog.
+
+## Repository boundary
+
+This repository is the official public marketing showcase for KD Code. It contains public product information, visual assets, support files and official links. It does not contain KD Code source code, KD Engine source code, private runtime contracts, internal infrastructure, credentials, customer data or private benchmark traces.

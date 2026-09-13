@@ -1,0 +1,48 @@
+name: Сообщить об ошибке
+description: Воспроизводимая проблема KD Code без секретов и приватных данных
+title: "[Ошибка] "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо за сообщение. Вопросы по аккаунту и списаниям направляйте в приватную поддержку. Не публикуйте ключи, приватный код и персональные данные.
+  - type: input
+    id: version
+    attributes:
+      label: Версия KD Code
+      placeholder: "Например, 0.3.33"
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Операционная система
+      options:
+        - macOS Apple Silicon
+        - Windows x64
+        - Linux x64
+        - Другая
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Что произошло
+      description: Опишите ожидаемое и фактическое поведение.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Безопасные шаги воспроизведения
+      description: Удалите ключи, приватный код, пути с именами пользователей и персональные данные.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Проверка перед публикацией
+      options:
+        - label: Сообщение не содержит ключей, секретов, приватного кода и персональных данных.
+          required: true
